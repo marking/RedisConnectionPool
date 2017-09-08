@@ -1,4 +1,5 @@
 ﻿using StackExchange.Redis;
+using System.Configuration;
 
 namespace RedisConnectionPool
 {
@@ -13,7 +14,7 @@ namespace RedisConnectionPool
 			{
 				if (db == null)
 				{
-					redis = ConnectionMultiplexer.Connect("localhost:6379");
+					redis = ConnectionMultiplexer.Connect(System.Configuration.ConfigurationManager.AppSettings["redisConnection"]);
 					db = redis.GetDatabase();
 				}
 

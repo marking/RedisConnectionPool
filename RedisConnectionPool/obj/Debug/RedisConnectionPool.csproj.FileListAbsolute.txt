@@ -1,9 +1,0 @@
-c:\users\fdecaire\documents\visual studio 2015\Projects\RedisConnectionPool\RedisConnectionPool\bin\Debug\RedisConnectionPool.exe.config
-c:\users\fdecaire\documents\visual studio 2015\Projects\RedisConnectionPool\RedisConnectionPool\bin\Debug\RedisConnectionPool.exe
-c:\users\fdecaire\documents\visual studio 2015\Projects\RedisConnectionPool\RedisConnectionPool\bin\Debug\RedisConnectionPool.pdb
-c:\users\fdecaire\documents\visual studio 2015\Projects\RedisConnectionPool\RedisConnectionPool\bin\Debug\StackExchange.Redis.dll
-c:\users\fdecaire\documents\visual studio 2015\Projects\RedisConnectionPool\RedisConnectionPool\bin\Debug\StackExchange.Redis.pdb
-c:\users\fdecaire\documents\visual studio 2015\Projects\RedisConnectionPool\RedisConnectionPool\bin\Debug\StackExchange.Redis.xml
-c:\users\fdecaire\documents\visual studio 2015\Projects\RedisConnectionPool\RedisConnectionPool\obj\Debug\RedisConnectionPool.csprojResolveAssemblyReference.cache
-c:\users\fdecaire\documents\visual studio 2015\Projects\RedisConnectionPool\RedisConnectionPool\obj\Debug\RedisConnectionPool.exe
-c:\users\fdecaire\documents\visual studio 2015\Projects\RedisConnectionPool\RedisConnectionPool\obj\Debug\RedisConnectionPool.pdb

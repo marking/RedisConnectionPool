@@ -6,7 +6,7 @@ namespace RedisConnectionPool
 	public static class RedisConnectionPool
 	{
 		private static Lazy<ConnectionMultiplexer> Connection = new Lazy<ConnectionMultiplexer>(
-				() => ConnectionMultiplexer.Connect("localhost:6379"));
+				() => ConnectionMultiplexer.Connect(System.Configuration.ConfigurationManager.AppSettings["redisConnection"]));
 
 		public static IDatabase RedisServerDB
 		{
